@@ -8,5 +8,6 @@
   "postUsrlibl": [],
   "setIBMiEnvCmd": [],
   "repository": "git@github.com:bmarolleau/bob-recursive-example.git",
-  "queries": ["/home/wdsctest/","MYLIB"]
+  "buildCommand":"makei build",
+  "compileCommand":"makei c -f {filename}"
 } 
