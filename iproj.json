@@ -7,6 +7,6 @@
   "preUsrlibl": ["&lib1"],
   "postUsrlibl": [],
   "setIBMiEnvCmd": [],
-  "repository": "https://github.com/edmundreinhardt/bob-recursive-example",
+  "repository": "git@github.com:bmarolleau/bob-recursive-example.git",
   "queries": ["/home/wdsctest/","MYLIB"]
-}
+} 
